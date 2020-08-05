@@ -1,9 +1,7 @@
 
 // Write your code here
 
-let num1 = 2;
-let num2 = 31;
+const num1 = 2;
+const num2 = 31;
 
-function random() {
-  Number.random()
-}
+let multiply = num1*num2;
