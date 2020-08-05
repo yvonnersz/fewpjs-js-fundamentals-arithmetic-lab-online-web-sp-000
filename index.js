@@ -1,6 +1,6 @@
 
 // Write your code here
 
-function multiply() {
+function multiply(numbe) {
   let num1 = number
 }
