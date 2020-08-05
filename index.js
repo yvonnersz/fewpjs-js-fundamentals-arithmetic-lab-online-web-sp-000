@@ -6,3 +6,4 @@ const num2 = 31;
 
 let multiply = num1*num2;
 let random = Math.random();
+let mod = 17%4
