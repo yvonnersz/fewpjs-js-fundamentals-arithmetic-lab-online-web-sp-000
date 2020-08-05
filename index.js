@@ -6,5 +6,5 @@ function multiply() {
   const num2 = 31;
 
   let results = num1*num2;
-  return results;
+  return results
 }
